@@ -2,6 +2,10 @@
 
 Este projeto implementa um sistema de controle de servomotor utilizando modulação PWM (Pulse Width Modulation) no microcontrolador Raspberry Pi Pico W. O sistema permite o controle preciso do ângulo do servomotor através de diferentes ciclos de trabalho PWM.
 
+# Segue o vídeo de demonstração
+
+https://youtu.be/oItIjFv0gb0
+
 ## Características
 
 - Controle de servomotor usando PWM na GPIO 22
